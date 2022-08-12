@@ -1,7 +1,7 @@
 ##
 <p align="center">
 <h2 align="center"> Olá 👋, eu sou Jeciane Amorim</h2>
-<h3 align="center" >Desenvolvedora FrontEnd React</h3>
+<h3 align="center" >Desenvolvedora Front-end React</h3>
 Sou estudante de Ciências da Computação, possuo experiência na construção de aplicações web e mobile utilizando frameworks JavaScript e typescript.
 Possuo experiência na construção de aplicações web e mobile utilizando frameworks JavaScript e typescript, e estou estudando UX e Ui Designer, assim como também estou Estudando, NextJS.
 <p>
@@ -22,8 +22,8 @@ Possuo experiência na construção de aplicações web e mobile utilizando fram
 
 <div style="display: inline_block">
   <h3 align="left">Conecte-se comigo:</h3>
-  <a href="https://twitter.com/amorim_jeciane" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="amorim_jeciane" height="30" /></a>
-  <a href="https://linkedin.com/in/francisca-jeciane-amorim-da-silva-056513184" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="francisca-jeciane-amorim-da-silva-056513184" height="30" /></a>
+  <a href="https://twitter.com/amorim_jeciane" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="amorim_jeciane" height="30" /></a>
+  <a href="https://linkedin.com/in/francisca-jeciane-amorim-da-silva-056513184" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="francisca-jeciane-amorim-da-silva-056513184" height="30" /></a>
 </div>
   
 ##
