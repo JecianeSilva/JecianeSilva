@@ -5,7 +5,10 @@
 Sou estudante de Ciências da Computação, possuo experiência na construção de aplicações web e mobile utilizando frameworks JavaScript e typescript.
 Possuo experiência na construção de aplicações web e mobile utilizando frameworks JavaScript e typescript, e estou estudando UX e Ui Designer, assim como também estou Estudando, NextJS.
 <p>
-
+<br>
+<a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JecianeSilva&theme=dracula&show_icons=true" />
+</a>
 <br>
 <br>
 
@@ -26,7 +29,6 @@ Possuo experiência na construção de aplicações web e mobile utilizando fram
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="bootstrap"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
   <img align="center" alt="docker"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
-  <img align="center" alt="flutter"  height="30" width="40" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" /> 
   <img align="center" alt="reactnative"  height="30" width="40" src="https://reactnative.dev/img/header_logo.svg" />
   <img align="center" alt="sass"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
 </div>
