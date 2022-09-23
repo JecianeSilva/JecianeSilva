@@ -6,17 +6,6 @@ Sou estudante de Ciências da Computação, possuo experiência na construção 
 Possuo experiência na construção de aplicações web e mobile utilizando frameworks JavaScript e typescript, e estou estudando UX e Ui Designer, assim como também estou Estudando, NextJS.
 <p>
 
-
-<br>
-
-<div align="center">
-  <a href="https://beacons.ai/jecianeamorim">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jecianesilva&show_icons=true&locale=pt-br&theme=dracula" alt="jecianesilva" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jecianesilva&show_icons=true&locale=pt-br&theme=dracula" alt="jecianesilva" />
-  </a>
-</div>
-
-<br>
 <br>
 <br>
 
