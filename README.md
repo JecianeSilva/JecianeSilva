@@ -15,7 +15,7 @@ Possuo experiência na construção de aplicações web e mobile utilizando fram
 <div style="display: inline_block">
   <h3 align="left">Conecte-se comigo:</h3>
   <a href="https://twitter.com/amorim_jeciane" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="amorim_jeciane" height="30" /></a>
-  <a href="https://linkedin.com/in/francisca-jeciane-amorim-da-silva-056513184" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="francisca-jeciane-amorim-da-silva-056513184" height="30" /></a>
+  <a href="https://www.linkedin.com/in/jeciane-amorim-056513184/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="francisca-jeciane-amorim-da-silva-056513184" height="30" /></a>
 </div>
   
 ##
