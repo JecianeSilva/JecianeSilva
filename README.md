@@ -1,35 +1,38 @@
-##
-<p align="center">
-<h2 align="center"> Olá 👋, eu sou Jeciane Amorim</h2>
-<h3 align="center" >Desenvolvedora Front-end React</h3>
-Sou estudante de Ciências da Computação, possuo experiência na construção de aplicações web e mobile utilizando frameworks JavaScript e typescript.
-Possuo experiência na construção de aplicações web e mobile utilizando frameworks JavaScript e typescript, e estou estudando UX e Ui Designer, assim como também estou Estudando, NextJS.
-<p>
-<br>
-<a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JecianeSilva&theme=dracula&show_icons=true" />
-</a>
-<br>
-<br>
+<h2> 👋🏼 Hey there! I'm Jeciane Amorim.</h2>
 
-<div style="display: inline_block">
-  <h3 align="left">Conecte-se comigo:</h3>
-  <a href="https://twitter.com/amorim_jeciane" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="amorim_jeciane" height="30" /></a>
-  <a href="https://www.linkedin.com/in/jeciane-amorim-056513184/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="francisca-jeciane-amorim-da-silva-056513184" height="30" /></a>
-</div>
-  
-##
-  
-<div style="display: inline_block">
-<h3 align="left">Linguagens e ferramentas:</h3>
-   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="bootstrap"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
-  <img align="center" alt="docker"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
-  <img align="center" alt="reactnative"  height="30" width="40" src="https://reactnative.dev/img/header_logo.svg" />
-  <img align="center" alt="sass"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
-</div>
+<h3> 👩🏻‍💻 About Me </h3>
+
+- 🎓 &nbsp; Studying Computer Science at the Federal Rural University of the Semiarid
+- 💻 &nbsp; Frontend Developer
+- 📘 &nbsp; Learning more about Angular
+
+<h3> 🛠 Tech Stack</h3>
+
+- 🌐 &nbsp; Javascript | HTML | CSS | ReactJs | Typescript
+
+<h3> ⚡ Languages and Tools</h3>
+<p>
+
+<a href="https://react.dev/">![ReactJs](https://img.shields.io/badge/-ReactJs-blue?style=flat-square&logo=react)</a>
+![JavaScript](https://img.shields.io/badge/-JavaScript-gray?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+<a href="https://sass-lang.com/">![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)</a>
+<a href="https://getbootstrap.com/">![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)</a>
+<a href="https://www.typescriptlang.org/">![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)</a>
+<a href="https://angular.io/">![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)</a>
+
+</p>
+<a href="https://github.com/JecianeSilva">
+  <p align="center">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JecianeSilva&theme=dracula&show_icons=true" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JecianeSilva&theme=dracula&layout=compact" />
+  </p>
+</a>
+
+<p align="center">
+  <a href="https://jecianesilva.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-jeciane-blue?style=flat-square&logo=google-chrome"></a>
+  <a href="https://www.linkedin.com/in/jeciane-amorim-056513184/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jeciane%20Amorim%20-blue?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:jeciane_amorim@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jeciane_amorim@hotmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
 
