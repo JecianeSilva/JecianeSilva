@@ -10,7 +10,7 @@
 
 
 ## About Me
-<img align="right" alt="Developer" width="30%" src="https://github.com/JecianeSilva/JecianeSilva/assets/43557425/f8b5981f-02d8-435b-a485-5b60811cbff4" />
+<img align="right" alt="Developer" width="45%" src="https://github.com/JecianeSilva/JecianeSilva/assets/43557425/f8b5981f-02d8-435b-a485-5b60811cbff4" />
 
 I'm a Frontend Developer and undergraduate in Computer Science. My programming languages are Javascript, TypeScript in I am good at programming. ReactJs, React Native, NextJs are the frameworks and libraries I'm currently working on and I'm studying Angular. I am communicative, I love learning and building something new, productive, innovative and creative.
 
