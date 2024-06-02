@@ -17,7 +17,7 @@ I'm a Frontend Developer and undergraduate in Computer Science. My programming l
  - 💻 Work as Frontend Developer
  - 🎓 Studying Computer Science at the University Federal Rural of Semiarid in Mossoró, RN
  - 🌱 I’m currently learning more about Angular, Web design, Mobile development and interest in cloud computing 
- - 🤔 I’m currently open for: new job opportunity, this is <a alt="resume" href="https://jecianesilva.github.io/files/Curriculo%20-%20Francisca%20Jeciane%20Amorim%20da%20Silva%20-%202023.pdf">MY RESUME</a>.
+ - 🤔 I’m currently open for: new job opportunity, this is <a alt="resume" href="https://jecianesilva.github.io/">MY RESUME</a>.
  - 📫 Contact me by: <a alt="email" href="mailto:jeciane_amorim@hotmail.com">jeciane_amorim@hotmail.com</a>
 
 
